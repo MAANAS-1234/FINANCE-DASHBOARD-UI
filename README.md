@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FINANCE-DASHBOARD-UI
 # Finance Dashboard
 
