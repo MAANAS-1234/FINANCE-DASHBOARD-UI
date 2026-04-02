@@ -63,11 +63,11 @@ Password: admin123
 
 ## Tech Stack
 
-* ⚛️ React (Vite)
-* 🎨 Tailwind CSS
-* 📊 Recharts
-* 💡 JavaScript (ES6)
-* 💾 LocalStorage
+* React (Vite)
+* Tailwind CSS
+* Recharts
+* JavaScript (ES6)
+* LocalStorage
 
 ---
 
