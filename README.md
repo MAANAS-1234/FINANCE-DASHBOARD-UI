@@ -22,8 +22,8 @@ This application helps users track income, expenses, and financial insights with
 ### Transactions Management
 
 * View all transactions in a table
-* Search transactions by category 🔍
-* Filter by type (Income / Expense) 🎯
+* Search transactions by category 
+* Filter by type (Income / Expense) 
 
 ### Add & Delete Transactions
 
